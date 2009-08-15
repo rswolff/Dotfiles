@@ -5,6 +5,9 @@ alias sdc=' ./script/dbconsole -p'
 
 #git 
 alias g='git status'
+function gg() {
+	git commit -v -a -m "$*"
+}
 
 #internet
 alias ff='open -a Firefox'
