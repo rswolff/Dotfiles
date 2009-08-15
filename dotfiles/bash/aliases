@@ -1,0 +1,15 @@
+#rails
+alias ss=' ./script/server'
+alias sc=' ./script/console'
+alias sdc=' ./script/dbconsole -p'
+
+#git 
+alias g='git status'
+
+#internet
+alias ff='open -a Firefox'
+
+#management
+alias reload='. ~/.bashrc'
+
+alias ls='ls -alh'
