@@ -1,1 +1,1 @@
-PS1="\n\u:\w "
+PS1="\n\u:\w \$(vcprompt)"
